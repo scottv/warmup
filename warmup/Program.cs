@@ -8,7 +8,7 @@
         static void Main(string[] args)
         {
             //parse out command line
-            // warmup web FHLBank.Grouping
+            // warmup web 
             string templateName = args[0];
             string name = args[1];
 
